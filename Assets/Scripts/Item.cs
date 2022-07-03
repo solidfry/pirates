@@ -7,7 +7,8 @@ public class Item : MonoBehaviour
 {
     [SerializeField]
     private ItemType itemType;
-
+    [SerializeField]
+    private NFTGen nft;
     public ItemType ItemType => itemType;
     private SpriteRenderer[] sprites;
     [SerializeField]
@@ -18,17 +19,14 @@ public class Item : MonoBehaviour
 
     private void OnEnable()
     {
-        GetSprites();
         SetValue();
         SetValueText();
     }
 
     private void OnValidate()
     {
-        GetSprites();
         SetValue();
         SetValueText();
-        ApplySprites();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -40,24 +38,9 @@ public class Item : MonoBehaviour
         } 
     }
 
-    void GetSprites()
-    {
-        sprites = FindObjectsOfType<SpriteRenderer>();
-        if (sprites != null) { ApplySprites(); }
-    }
-    
-    void ApplySprites()
-    {
-        foreach (SpriteRenderer sprite in sprites)
-        {
-            sprite.sprite = itemType.image;
-            sprite.color = itemType.color;
-        }
-    }
-
     void SetValue()
     {
-        value = itemType.value;
+        value = nft.value;
     }
 
     void SetValueText()
