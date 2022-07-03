@@ -1,172 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42a2ec77-744b-48a7-900e-a6285ca59255" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Data/NFTData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/NFTData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-6.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-6.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-7.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-7.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-8.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/TraitColors/Color-8.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 10.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 10.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 11.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 11.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 12.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 12.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 13.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 13.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 14.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 14.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 15.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 15.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 16.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 16.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 17.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 17.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 18.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 18.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 19.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 19.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 20.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 20.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 21.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 21.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 22.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 22.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 23.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 23.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 24.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 24.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 6.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 6.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 7.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 7.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 8.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 8.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 9.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Accessories/Accessory 9.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 6.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 6.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 7.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 7.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 8.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Backgrounds/Background 8.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 6.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Bodies/Body 6.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Traits/Faces/Face 5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/NFT.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/NFT.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/NFTbuilder.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/NFTbuilder.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enums.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enums.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/NFTGen.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/NftData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/NftData.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Trait.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Trait.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/TraitColor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/TraitColor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Accessory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Accessory.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Background.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Background.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Body.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Body.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Face.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Traits/Face.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/colours.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/colours.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Bodies.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Bodies/body-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Bodies/body-1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-00.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Clothes/clothes-03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Faces/faces-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/background-colour.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/background-colour.png.meta" afterDir="false" />
+    <list default="true" id="42a2ec77-744b-48a7-900e-a6285ca59255" name="Changes" comment="Faces">
+      <change afterPath="$PROJECT_DIR$/Assets/Data/NFT.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/NFT.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Bouy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Bouy.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pirates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pirates/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/RedNFT.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/RedNFT.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/NFT.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/NFT.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/PickUp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/PickUp.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/PirateGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/PirateGame.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Item.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NFTGen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NFTGen.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +101,7 @@
       <workItem from="1656661554664" duration="142000" />
       <workItem from="1656725396979" duration="6179000" />
       <workItem from="1656758893604" duration="480000" />
-      <workItem from="1656810673027" duration="7511000" />
+      <workItem from="1656810673027" duration="8589000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bouys">
       <created>1656734349421</created>
@@ -275,7 +124,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656759330028</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added NFT elements and generator">
+      <created>1656818756406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656818756406</updated>
+    </task>
+    <task id="LOCAL-00005" summary="NFTGen.cs builds the &quot;nft&quot;">
+      <created>1656818773812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656818773812</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Faces">
+      <created>1656818781929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656818781929</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +170,9 @@
     <MESSAGE value="Added Bouys" />
     <MESSAGE value="Art direction" />
     <MESSAGE value="Art direction on ocean material" />
-    <option name="LAST_COMMIT_MESSAGE" value="Art direction on ocean material" />
+    <MESSAGE value="Added NFT elements and generator" />
+    <MESSAGE value="NFTGen.cs builds the &quot;nft&quot;" />
+    <MESSAGE value="Faces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Faces" />
   </component>
 </project>

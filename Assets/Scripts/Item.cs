@@ -1,5 +1,3 @@
-using System;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
@@ -10,7 +8,6 @@ public class Item : MonoBehaviour
     [SerializeField]
     private NFTGen nft;
     public ItemType ItemType => itemType;
-    private SpriteRenderer[] sprites;
     [SerializeField]
     private int value;
     [SerializeField]
@@ -31,6 +28,10 @@ public class Item : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        if (other.GetComponent<Item>())
+        {
+            return;
+        }
         if (other.transform.parent.TryGetComponent<Player>(out var player))
         {
             player.items.Add(this);

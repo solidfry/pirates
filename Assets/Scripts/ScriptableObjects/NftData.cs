@@ -4,7 +4,7 @@ using UnityEngine;
 namespace ScriptableObjects
 {
     [CreateAssetMenu(menuName="Items/NFT/New NFTData")]
-    public class NftData : ItemType
+    public class NftData : ScriptableObject
     {
         public List<Accessory> accessories = new();
         public List<Body> bodies = new();

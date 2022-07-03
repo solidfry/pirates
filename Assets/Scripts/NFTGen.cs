@@ -16,18 +16,17 @@ public class NFTGen : MonoBehaviour
 
     private void Awake()
     {
-        value = 0;
         SetValues();
     }
 
     private void OnValidate()
     {
-        value = 0;
         SetValues();
     }
 
     void SetValues()
     {
+        value = 0;
         SetBackground();
         SetAccessory();
         SetFace();
