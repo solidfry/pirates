@@ -1,16 +1,12 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using ScriptableObjects;
 using UnityEngine;
-using Random = UnityEngine.Random;
 
 public class NFTGen : MonoBehaviour
 {
     [SerializeField] private NftData nftData;
 
     [SerializeField] private SpriteRenderer background, body, face, accessory;
-    public int value { get; private set; }
+    public int nftValue;
     System.Random _rand;
     int _randomValue;
 
@@ -26,7 +22,7 @@ public class NFTGen : MonoBehaviour
 
     void SetValues()
     {
-        value = 0;
+        nftValue = 0;
         SetBackground();
         SetAccessory();
         SetFace();
@@ -71,6 +67,6 @@ public class NFTGen : MonoBehaviour
 
     void AddToValue(int valueToAdd)
     {
-        value += valueToAdd;
+        nftValue += valueToAdd;
     }
 }

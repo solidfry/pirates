@@ -109,8 +109,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1044159333647276576}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5, y: 2, z: 5}
+  m_LocalPosition: {x: 0, y: -2.15, z: 0}
+  m_LocalScale: {x: 5, y: 4.09, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1044159334041427147}
@@ -123,7 +123,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1044159333647276576}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!23 &1044159333647276604
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemType: {fileID: 11400000, guid: cacdcac54196df147ad6d04cae0feaad, type: 2}
   nft: {fileID: 5627233096670282186}
-  value: 0
+  value: 860
   valueText: {fileID: 8743641628835052811}
 --- !u!114 &1044159334041427142
 MonoBehaviour:
@@ -254,14 +254,14 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1044159334041427146}
   serializedVersion: 2
-  m_Mass: 4
+  m_Mass: 3
   m_Drag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 3
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!136 &1044159334041427138
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -376,7 +376,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: 860
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -535,6 +535,11 @@ PrefabInstance:
       propertyPath: value
       value: 440
       objectReference: {fileID: 0}
+    - target: {fileID: 8756842950364395567, guid: bfb4293fa7a564f4c8149d01d76ca459,
+        type: 3}
+      propertyPath: nftValue
+      value: 150
+      objectReference: {fileID: 0}
     - target: {fileID: 8756842950414055222, guid: bfb4293fa7a564f4c8149d01d76ca459,
         type: 3}
       propertyPath: m_Color.b
@@ -560,7 +565,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 45b09cf36ea70794b987123dc7abe37e,
+      objectReference: {fileID: 21300000, guid: 939af7a94e08bde4dae44b9d60562d99,
         type: 3}
     - target: {fileID: 8756842952371063734, guid: bfb4293fa7a564f4c8149d01d76ca459,
         type: 3}

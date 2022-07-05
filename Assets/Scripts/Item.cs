@@ -14,7 +14,7 @@ public class Item : MonoBehaviour
     private TMP_Text valueText;
     
 
-    private void OnEnable()
+    private void Awake()
     {
         SetValue();
         SetValueText();
@@ -41,7 +41,7 @@ public class Item : MonoBehaviour
 
     void SetValue()
     {
-        value = nft.value;
+        value = nft.nftValue;
     }
 
     void SetValueText()
